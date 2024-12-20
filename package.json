@@ -1,0 +1,12 @@
+{
+  "name": "defi-education-hub",
+  "version": "1.0.0",
+  "description": "Interactive DeFi learning platform with learn-to-earn mechanics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["defi", "education", "blockchain", "learn-to-earn"],
+  "author": "",
+  "license": "MIT"
+}
