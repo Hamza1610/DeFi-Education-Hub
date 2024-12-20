@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["defi", "education", "blockchain", "learn-to-earn"],
+  "keywords": [
+    "defi",
+    "education",
+    "blockchain",
+    "learn-to-earn"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "defi-education-hub": "file:"
+  }
 }
